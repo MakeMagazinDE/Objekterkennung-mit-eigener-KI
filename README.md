@@ -8,7 +8,7 @@ Maker Media GmbH
 
 **Mit fertigen Modellen und einer browserbasierten Oberfläche macht SenseCraft den Einstieg in die Live-Objekterkennung zugänglich. Zusammen mit dem Grove Vision AI V2 führt der Weg schnell vom ersten Versuch zum selbst trainierten Modell, auch ohne tiefgehende Kenntnisse im maschinellen Lernen.**
 
-![Aufmacherbild aus dem Heft](./doc/Dino_Aufmacher_niwe.jpg)
+![Aufmacherbild aus dem Heft](./doc/Dino_Aufmacher_niwe.png)
 
 ## Wer den Aufmacher skalieren muss:
 <img src="./doc/Aufmacher.JPG" width="50%" height="50%">
