@@ -10,8 +10,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./doc/Dino_Aufmacher_niwe.png)
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
 
 Hier zum ausprobieren die HunderassenKI sowie das passende Programm für den ESP.
 
