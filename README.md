@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-#Objekterkennung mit eigener KI
+# Objekterkennung mit eigener KI
 
 **Mit fertigen Modellen und einer browserbasierten Oberfläche macht SenseCraft den Einstieg in die Live-Objekterkennung zugänglich. Zusammen mit dem Grove Vision AI V2 führt der Weg schnell vom ersten Versuch zum selbst trainierten Modell, auch ohne tiefgehende Kenntnisse im maschinellen Lernen.**
 
